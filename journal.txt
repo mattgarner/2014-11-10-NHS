@@ -1,5 +1,5 @@
-Author: Matt Garner, Sue Pervisor
-Title: Title w/ supervisor
+Author: Matt Garner, Sue Pervisor, John Smith
+Title: Title
 
 Abstract:
 Intro:
