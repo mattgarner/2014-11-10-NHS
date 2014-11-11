@@ -1,4 +1,4 @@
-Author: Matt Garner
+Author: John Smith, Matt Garner
 Title: The title
 
 Abstract:
