@@ -1,5 +1,5 @@
-Author: Matt Garner
-Title: The title
+Author: Matt Garner, Sue Pervisor
+Title: Title w/ supervisor
 
 Abstract:
 Intro:
