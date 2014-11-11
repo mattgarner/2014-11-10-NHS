@@ -1,2 +1,7 @@
 Author: Matt Garner
 Title: The title
+
+Abstract:
+Intro:
+Data:
+Conclusion:
